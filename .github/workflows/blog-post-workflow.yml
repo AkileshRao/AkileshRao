@@ -8,7 +8,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: AkileshRao/.github/workflows/blog-post-workflow@main
+      - uses: actions/checkout@v3
+      - uses: AkileshRao/blog-post-workflow@main
         with:
           feed_list: 'https://medium.com/@akileshrao19'
