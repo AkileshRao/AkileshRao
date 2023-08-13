@@ -3,7 +3,7 @@ name: Medium Blog Posts
 on:
   schedule:
     - cron: '*/2 * * * *'
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
   update-readme-with-blog:
