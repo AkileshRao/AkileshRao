@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: AkileshRao/blog-post-workflow@main
+      - uses: AkileshRao/blog-post-workflow@master
         with:
           feed_list: 'https://medium.com/feed/@akileshrao19'
           token: ${{ secrets.MEDIUM_WORKFLOW_TOKEN }}
