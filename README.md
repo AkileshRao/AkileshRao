@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/themangalorian" target="blank"><img src="https://img.shields.io/twitter/follow/themangalorian?logo=twitter&style=for-the-badge" alt="themangalorian" /></a> </p>
 
-- 🔭 I’m currently working on [updating my portfolio.](https://monumental-strudel-724e85.netlify.app/#about)
-
 - 📝 I regularly write articles on [https://akileshrao19.medium.com/](https://akileshrao19.medium.com/)
 
 - 💬 Ask me about **Anything Javascript.**
